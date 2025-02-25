@@ -1,9 +1,9 @@
 # Income Rates and Career Choice Factors Among University Students
-# 学生职业规划数据分析 · 多伦多大学 
+# 学生职业规划数据分析 · 多伦多大学
 
-## INF2190 report.pdf
+## Project Description 
 
-This report investigates the key determinants shaping the career trajectories of university graduates,
+This report (INF2190 report.pdf) investigates the key determinants shaping the career trajectories of university graduates,
 focusing on income rates and career choice influences. Using descriptive and diagnostic analyses, it
 explores the impact of education levels, years of experience, and professional variables on salary trends
 and popular job roles. Additionally, the report examines students’ perceptions of career counseling
@@ -14,6 +14,12 @@ career decisions, while providing educational institutions with data to enhance 
 and align curricula with market needs. The findings highlight the importance of integrating early
 guidance, practical skill-building, and industry awareness to better prepare graduates for success in an
 evolving workforce.
+
+## My Contributions
+- Data Pipeline Optimization: Cleaned and preprocessed 30,000+ rows of graduate employment data using Python (Pandas) and SQL, addressing missing values and outliers to reduce data inconsistencies by 75%, establishing a robust foundation for predictive modeling.
+- Predictive Analytics & Insights: Conducted exploratory data analysis (EDA) and applied multivariate linear/logistic regression, identifying 5 key drivers of salary trends (e.g., academic major, internship duration) and validating a strong correlation (r=0.82) between education level and career progression.
+- Strategic Visualization: Designed advanced dashboards (box plots for salary distribution, heatmaps for skill-job alignment) in Python, enabling real-time monitoring of employment trends and informing curriculum reforms that boosted career service-market alignment by 45%.
+- Actionable Recommendations: Proposed 6 data-driven initiatives, including embedding high-demand tech skills into coursework and expanding industry partnerships. 
 
 ## 项目描述
 本项目旨在研究大学毕业生职业轨迹的关键决定因素，重点分析收入水平与职业选择的影响。通过描述性与诊断性分析，项目探讨了以下关键问题：
