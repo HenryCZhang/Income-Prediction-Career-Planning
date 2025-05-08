@@ -1,6 +1,10 @@
 # Income Rates and Career Choice Factors Among University Students
 # 学生职业规划数据分析 · 多伦多大学
 
+[Career_Path_Selection CSV](https://www.kaggle.com/datasets/mtalhazafar/career-path-selection-challenges)
+
+[Salary CSV](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country)
+
 ## Project Description 
 
 This report (INF2190 report.pdf) investigates the key determinants shaping the career trajectories of university graduates,
